@@ -1,4 +1,4 @@
-ANSV2: All Nearest Smaller Values Problem
+A Parallel Implementation of an Optimal ANSV Algorithm
 ==========================================
 
 Overview:
