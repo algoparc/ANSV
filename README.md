@@ -9,7 +9,7 @@ Features:
 ---------
 Three implementations of algorithms the ANSV problem:
 1. Sequential array-based solution with O(n) complexity.
-2. The Berkman, Schieber, and Vishkin Optimal solution. 
+2. The Berkman, Schieber, and Vishkin optimal solution. 
 3. The Shun and Zhao heuristic approach.
 
 Dependencies:
